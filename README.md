@@ -1,4 +1,7 @@
+
 # Week4Project1
+# Smart City Monitoring System - Team1 Galaxy
+
 MODULE 3: Project Details – Smart City Monitoring System
 Now it is time to turn theory into practice. Below are the technical details of the project. This project is designed in the Microsoft Fabric environment.
 
